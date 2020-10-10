@@ -10,3 +10,6 @@
 [submodule "v2ray"]
 	path = v2ray
 	url = https://github.com/kuoruan/openwrt-v2ray
+[submodule "luci-app-openclash"]
+	path = luci-app-openclash
+	url = https://github.com/vernesong/OpenClash
