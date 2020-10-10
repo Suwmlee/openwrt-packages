@@ -7,7 +7,6 @@ Private Use
 | name                                                                          | description          |
 |-------------------------------------------------------------------------------|----------------------|
 | [netdata](https://github.com/netdata/netdata)                                 | 实时性能检测          |
-| [luci-app-adguardhome](https://github.com/rufengsuixing/luci-app-adguardhome) | 去广告                |
 | luci-app-shadowsocks-libev                                                    | ss-libev前端界面      |
 | [smartdns](https://github.com/pymumu/openwrt-smartdns)                        | DNS防污染             |
 | luci-app-sqm                                                                  | 流量智能队列管理(QOS)  |
@@ -18,6 +17,7 @@ Private Use
 
 | name                                                                          | description      |
 |-------------------------------------------------------------------------------|------------------|
+| [luci-app-adguardhome](https://github.com/rufengsuixing/luci-app-adguardhome) | 去广告           |
 | [luci-app-openclash](https://github.com/vernesong/OpenClash)                  | clash前端界面     |
 | [luci-theme-argon](https://github.com/jerrykuku/luci-theme-argon)             | argon主题        |
 | [luci-theme-opentomato](https://github.com/solidus1983/luci-theme-opentomato) | opentomato主题   |
