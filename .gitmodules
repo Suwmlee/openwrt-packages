@@ -7,3 +7,12 @@
 [submodule "luci-app-smartdns"]
 	path = luci-app-smartdns
 	url = https://github.com/pymumu/luci-app-smartdns
+[submodule "luci-theme-argon"]
+	path = luci-theme-argon
+	url = https://github.com/jerrykuku/luci-theme-argon
+[submodule "shadowsocks-libev"]
+	path = shadowsocks-libev
+	url = https://github.com/shadowsocks/openwrt-shadowsocks
+[submodule "v2ray"]
+	path = v2ray
+	url = https://github.com/kuoruan/openwrt-v2ray
