@@ -20,6 +20,7 @@ Private Use  __Mainly for [Official Openwrt 19.07](https://github.com/openwrt/op
 |-------------------------------------------------------------------------------|------------------|
 | [luci-app-adguardhome](https://github.com/rufengsuixing/luci-app-adguardhome) | 去广告           |
 | [luci-app-openclash](https://github.com/vernesong/OpenClash)                  | clash前端界面     |
+| [luci-app-shadowsocks](https://github.com/shadowsocks/luci-app-shadowsocks)   | ss前端界面        |
 | [luci-app-v2ray](https://github.com/kuoruan/luci-app-v2ray/tree/luci2)        | v2ray前端界面     |
 | [luci-theme-argon](https://github.com/jerrykuku/luci-theme-argon)             | argon主题        |
 | [luci-theme-opentomato](https://github.com/solidus1983/luci-theme-opentomato) | opentomato主题   |

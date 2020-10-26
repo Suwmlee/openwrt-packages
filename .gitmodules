@@ -20,3 +20,6 @@
 	path = luci-app-v2ray
 	url = https://github.com/kuoruan/luci-app-v2ray
 	branch = luci2
+[submodule "luci-app-shadowsocks"]
+	path = luci-app-shadowsocks
+	url = https://github.com/shadowsocks/luci-app-shadowsocks
